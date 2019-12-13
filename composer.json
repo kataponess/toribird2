@@ -1,0 +1,12 @@
+{
+    "name": "katap/api-test",
+    "authors": [
+        {
+            "name": "kataponess",
+            "email": "pone.sekisei@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "2.0"
+    }
+}

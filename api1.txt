@@ -1,0 +1,8 @@
+client ID
+156796002974-7de9h6qa7niu5fk2goev30gud7m5thbk.apps.googleusercontent.com
+
+client secret
+j8Om1Q-9e2Yi3Af6V9hhzucX
+
+API KEY
+AIzaSyBsPed4gkxFR2Pe8-35NDuxBvrFfTDMqnk
